@@ -1,2 +1,2 @@
-# JAVA_NOTES
-Java basics
+#Core JAVA_NOTES
+Java basics , core java, Advance java concepts Notes 
